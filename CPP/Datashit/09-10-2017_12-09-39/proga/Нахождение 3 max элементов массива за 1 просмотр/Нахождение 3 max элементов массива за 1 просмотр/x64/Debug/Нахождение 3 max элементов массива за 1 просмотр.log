@@ -1,0 +1,9 @@
+﻿Build started 17.10.2017 11:22:55.
+     1>Project "F:\proga\Нахождение 3 max элементов массива за 1 просмотр\Нахождение 3 max элементов массива за 1 просмотр\Нахождение 3 max элементов массива за 1 просмотр.vcxproj" on node 2 (build target(s)).
+       Project file contains ToolsVersion="15.0", which is not supported by this version of MSBuild. Treating the project as if it had ToolsVersion="4.0".
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\Platforms\x64\Microsoft.Cpp.x64.Targets(514,5): error MSB8008: Specified platform toolset (v141) is not installed or invalid. Please make sure that a supported PlatformToolset value is selected.
+     1>Done Building Project "F:\proga\Нахождение 3 max элементов массива за 1 просмотр\Нахождение 3 max элементов массива за 1 просмотр\Нахождение 3 max элементов массива за 1 просмотр.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.23

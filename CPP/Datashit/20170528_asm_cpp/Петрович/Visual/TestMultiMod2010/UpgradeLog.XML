@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TestMultiMod">
+</Property><Property Name="Solution File" Value="H:\D\IgorNew\Обучение\Assembler\Visual\TestMultiMod\TestMultiMod.sln">
+</Property><Property Name="User Options File" Value="H:\D\IgorNew\Обучение\Assembler\Visual\TestMultiMod\TestMultiMod.suo">
+</Property><Property Name="Date" Value="31 августа 2010 г.">
+</Property><Property Name="Time" Value="8:58">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="TestMultiMod.sln" Description="File successfully backed up as H:\D\IgorNew\Обучение\Assembler\Visual\TestMultiMod\TestMultiMod.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="TestMultiMod.suo" Description="File successfully backed up as H:\D\IgorNew\Обучение\Assembler\Visual\TestMultiMod\TestMultiMod.suo.old">
+</Event><Event ErrorLevel="0" Project="TestMultiMod" Source="TestMultiMod\TestMultiMod.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="TestMultiMod" Source="TestMultiMod\TestMultiMod.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="TestMultiMod" Source="TestMultiMod\TestMultiMod.vcproj" Description="Project file successfully backed up as 'H:\D\IgorNew\Обучение\Assembler\Visual\TestMultiMod\TestMultiMod\TestMultiMod.vcproj.8.00.old'.">
+</Event><Event ErrorLevel="0" Project="TestMultiMod" Source="TestMultiMod\TestMultiMod.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="TestMultiMod" Source="TestMultiMod\TestMultiMod.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TestMultiMod.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="TestMultiMod.sln" Description="Converted">
+</Event></UpgradeLog>

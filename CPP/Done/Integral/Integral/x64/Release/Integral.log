@@ -1,0 +1,63 @@
+﻿  Integral.cpp
+Integral.cpp(91): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+Integral.cpp(153): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+Integral.cpp(451): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+Integral.cpp(452): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+Integral.cpp(453): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+Integral.cpp(454): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+Integral.cpp(456): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+Integral.cpp(456): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+Integral.cpp(457): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+Integral.cpp(457): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+Integral.cpp(458): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+Integral.cpp(458): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+Integral.cpp(459): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+Integral.cpp(459): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+Integral.cpp(461): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+Integral.cpp(461): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+Integral.cpp(462): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+Integral.cpp(462): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+Integral.cpp(495): warning C4838: преобразование из "double" в "int" требует сужающего преобразования
+Integral.cpp(495): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+Integral.cpp(510): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+Integral.cpp(510): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+Integral.cpp(511): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+Integral.cpp(511): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+Integral.cpp(512): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+Integral.cpp(512): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+Integral.cpp(513): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+Integral.cpp(513): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+Integral.cpp(515): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+Integral.cpp(515): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+Integral.cpp(516): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+Integral.cpp(516): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+Integral.cpp(536): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+Integral.cpp(540): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+Integral.cpp(543): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+Integral.cpp(544): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+Integral.cpp(545): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+Integral.cpp(546): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+Integral.cpp(562): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+Integral.cpp(567): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+Integral.cpp(568): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+Integral.cpp(569): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+Integral.cpp(570): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+Integral.cpp(571): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+Integral.cpp(572): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+Integral.cpp(590): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+Integral.cpp(608): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+Integral.cpp(609): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+Integral.cpp(609): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+Integral.cpp(619): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+Integral.cpp(637): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+Integral.cpp(638): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+Integral.cpp(638): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+Integral.cpp(747): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+Integral.cpp(749): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Создание кода
+  1 of 340 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    22 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Integral.vcxproj -> D:\CPP\Datashit\Integral\x64\Release\Integral.exe
+  Integral.vcxproj -> D:\CPP\Datashit\Integral\x64\Release\Integral.pdb (Full PDB)

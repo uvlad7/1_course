@@ -1,0 +1,8 @@
+﻿  KR3.cpp
+d:\cpp\datashit\kr3\kr3\kr3.cpp(49): warning C4018: <: несоответствие типов со знаком и без знака
+d:\cpp\datashit\kr3\kr3\kr3.cpp(63): warning C4018: <: несоответствие типов со знаком и без знака
+d:\cpp\datashit\kr3\kr3\kr3.cpp(84): warning C4018: <: несоответствие типов со знаком и без знака
+d:\cpp\datashit\kr3\kr3\kr3.cpp(98): warning C4018: <: несоответствие типов со знаком и без знака
+d:\cpp\datashit\kr3\kr3\kr3.cpp(109): warning C4018: <: несоответствие типов со знаком и без знака
+  KR3.vcxproj -> D:\CPP\Datashit\KR3\Debug\KR3.exe
+  KR3.vcxproj -> D:\CPP\Datashit\KR3\Debug\KR3.pdb (Full PDB)

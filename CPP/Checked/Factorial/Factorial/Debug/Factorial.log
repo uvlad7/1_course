@@ -1,0 +1,7 @@
+﻿  Factorial.cpp
+d:\cpp\factorial\factorial\factorial.cpp(9): warning C4244: инициализация: преобразование "double" в "const __int64", возможна потеря данных
+d:\cpp\factorial\factorial\factorial.cpp(52): warning C4477: "sprintf_s": в строке форматирования "%09d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "const unsigned __int64"
+  d:\cpp\factorial\factorial\factorial.cpp(52): note: рекомендуется использовать "%lld" в строке форматирования
+  d:\cpp\factorial\factorial\factorial.cpp(52): note: рекомендуется использовать "%I64d" в строке форматирования
+  Factorial.vcxproj -> D:\CPP\Factorial\Debug\Factorial.exe
+  Factorial.vcxproj -> D:\CPP\Factorial\Debug\Factorial.pdb (Full PDB)

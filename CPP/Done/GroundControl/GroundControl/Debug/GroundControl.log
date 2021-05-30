@@ -1,0 +1,5 @@
+﻿  GroundControl.cpp
+d:\cpp\datashit\groundcontrol\groundcontrol\groundcontrol.cpp(43): warning C4018: <: несоответствие типов со знаком и без знака
+d:\cpp\datashit\groundcontrol\groundcontrol\groundcontrol.cpp(59): warning C4018: <: несоответствие типов со знаком и без знака
+  GroundControl.vcxproj -> D:\CPP\Datashit\GroundControl\Debug\GroundControl.exe
+  GroundControl.vcxproj -> D:\CPP\Datashit\GroundControl\Debug\GroundControl.pdb (Full PDB)

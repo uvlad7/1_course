@@ -1,0 +1,5 @@
+﻿  RomanNumber.cpp
+d:\cpp\romannumber\romannumber\romannumber.cpp(37): warning C4018: <: несоответствие типов со знаком и без знака
+d:\cpp\romannumber\romannumber\romannumber.cpp(38): warning C4267: аргумент: преобразование из "size_t" в "unsigned short"; возможна потеря данных
+  RomanNumber.vcxproj -> D:\CPP\RomanNumber\Debug\RomanNumber.exe
+  RomanNumber.vcxproj -> D:\CPP\RomanNumber\Debug\RomanNumber.pdb (Full PDB)

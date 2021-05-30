@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestMultiMod2010_X", "TestMultiMod2010_X\TestMultiMod2010_X.vcxproj", "{D4DC1299-CF2D-40E2-B05C-66A9B7BB8BE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4DC1299-CF2D-40E2-B05C-66A9B7BB8BE4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D4DC1299-CF2D-40E2-B05C-66A9B7BB8BE4}.Debug|Win32.Build.0 = Debug|Win32
+		{D4DC1299-CF2D-40E2-B05C-66A9B7BB8BE4}.Release|Win32.ActiveCfg = Release|Win32
+		{D4DC1299-CF2D-40E2-B05C-66A9B7BB8BE4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

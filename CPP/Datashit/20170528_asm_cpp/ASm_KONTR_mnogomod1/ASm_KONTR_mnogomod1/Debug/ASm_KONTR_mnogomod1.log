@@ -1,0 +1,6 @@
+﻿  Assembling 1.asm...
+1.asm(5): error A2008: syntax error : c
+1.asm(16): error A2008: syntax error : c
+1.asm(26): error A2008: syntax error : c
+1.asm(28): error A2070: invalid instruction operands
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\BuildCustomizations\masm.targets(50,5): error MSB3721: выход из команды "ml.exe /c /nologo /Zi /Fo"Debug\1.obj" /W3 /errorReport:prompt  /Ta1.asm" с кодом "1".

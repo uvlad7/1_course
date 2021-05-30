@@ -1,0 +1,55 @@
+Turbo Assembler	 Version 5.0	    12-12-08 07:39:22	    Page 1
+AsmProc.ASM
+
+
+
+      1					       .386
+      2	00000000			       .model flat
+      3	00000000			       .code
+      4						;PUBLIC	C DoTotal
+      5						PUBLIC _DoTotal
+      6	00000000			 _DoTotal PROC
+      7	00000000  55				push   ebp
+      8	00000001  8B EC				mov    ebp, esp
+      9
+     10	00000003  8B 45	08			mov    eax, [ebp+08h]
+     11	00000006  03 45	0C			add    eax, [ebp+0Ch]
+     12
+     13	00000009  5D				pop    ebp
+     14	0000000A  C3				ret
+     15	0000000B			 _DoTotal  ENDP
+     16
+     17						end
+Turbo Assembler	 Version 5.0	    12-12-08 07:39:22	    Page 2
+Symbol Table
+
+
+
+
+Symbol Name			  Type	 Value
+
+??DATE				  Text	 "12-12-08"
+??FILENAME			  Text	 "AsmProc "
+??TIME				  Text	 "07:39:22"
+??VERSION			  Number 0500
+@32BIT				  Text	 1
+@CODE				  Text	 FLAT
+@CODESIZE			  Text	 0
+@CPU				  Text	 0F0FH
+@CURSEG				  Text	 _TEXT
+@DATA				  Text	 FLAT
+@DATASIZE			  Text	 0
+@FILENAME			  Text	 ASMPROC
+@INTERFACE			  Text	 000H
+@MODEL				  Text	 1
+@STACK				  Text	 FLAT
+@WORDSIZE			  Text	 4
+_DOTOTAL			  Near32 FLAT:0000
+
+Groups & Segments		  Bit Size Align  Combine Class
+
+DGROUP				  Group
+  _DATA				  32  0000 Dword  Public  DATA
+FLAT				  Group
+_TEXT				  32  000B Dword  Public  CODE
+

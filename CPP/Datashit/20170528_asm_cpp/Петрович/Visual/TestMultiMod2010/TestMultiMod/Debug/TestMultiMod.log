@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  TestMultiMod.cpp
+stdafx.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+SumArr.obj : error LNK2026: небезопасный модуль для образа SAFESEH.
+D:\CPP\Datashit\20170528_asm_cpp\Петрович\Visual\TestMultiMod2010\Debug\TestMultiMod.exe : fatal error LNK1281: Не удается создать образ SAFESEH.

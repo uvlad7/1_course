@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConvFast", "ConvFast\ConvFast.vcproj", "{433470D8-EAA5-4FCC-93FA-E5BF3165A749}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{433470D8-EAA5-4FCC-93FA-E5BF3165A749}.Debug|Win32.ActiveCfg = Debug|Win32
+		{433470D8-EAA5-4FCC-93FA-E5BF3165A749}.Debug|Win32.Build.0 = Debug|Win32
+		{433470D8-EAA5-4FCC-93FA-E5BF3165A749}.Release|Win32.ActiveCfg = Release|Win32
+		{433470D8-EAA5-4FCC-93FA-E5BF3165A749}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

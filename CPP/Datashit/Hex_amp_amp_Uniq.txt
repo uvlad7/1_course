@@ -1,0 +1,65 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+	unsigned char b[5];
+	b[4] = 0;
+	_asm {
+		mov ax, 4095
+		mov ecx, 4    // !!!! to 8
+	begin1:	
+		push ax
+		and ax, 0x000f
+		cmp ax, 9						//greater then 9 or lesser
+		jg let1
+		add ax, 48						//if lesser add 48 cause from asci
+		jmp next1
+	let1 : 
+		add ax, 55						//if greater add 55 cause letter (a-f)
+	next1 : 
+		mov b[ecx - 1], al		
+		pop ax
+		shr ax, 4
+		loop begin1
+	}
+	cout << b << 'h' << endl;
+	system("pause");
+	return 0;
+}
+
+
+#include <iostream>
+#include <vector>
+using namespace std;
+
+
+int main() {
+	int  sizes=11;
+	int rez;
+	int testArray[11];
+	cout << "enter pls array numbers" << endl;
+	for (int i = 0; i < sizes; i++) {
+		cin >> testArray[i];
+	}
+	/*
+	for (int i = 0; i < size; i++) {
+		cout << testVec[i] << " ";
+	}
+	*/
+	_asm {
+		xor eax, eax
+		mov ecx, sizes
+begin1: xor eax, testArray[4*ecx-4]
+		loop begin1
+		mov rez, eax
+	}
+	cout << "uniqe number is:" << rez << endl;
+
+	system("pause");
+	return 0;
+}
+
+
+

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\cpp\datashit\graphic\graphic\source.cpp(95): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Graphic.vcxproj -> D:\CPP\Datashit\Graphic\Debug\Graphic.exe
+  Graphic.vcxproj -> D:\CPP\Datashit\Graphic\Debug\Graphic.pdb (Full PDB)

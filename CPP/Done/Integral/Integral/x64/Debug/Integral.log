@@ -1,0 +1,58 @@
+﻿  Integral.cpp
+d:\cpp\datashit\integral\integral\integral.cpp(91): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(153): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(451): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(452): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(453): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(454): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(456): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(456): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(457): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(457): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(458): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(458): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(459): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(459): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(461): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(461): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(462): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(462): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(495): warning C4838: преобразование из "double" в "int" требует сужающего преобразования
+d:\cpp\datashit\integral\integral\integral.cpp(495): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(510): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(510): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(511): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(511): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(512): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(512): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(513): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(513): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(515): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(515): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(516): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(516): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(536): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(540): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(543): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(544): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(545): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(546): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(562): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(567): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(568): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(569): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(570): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(571): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(572): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(590): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(608): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(609): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(609): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(619): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(637): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(638): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(638): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(747): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\cpp\datashit\integral\integral\integral.cpp(749): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Integral.vcxproj -> D:\CPP\Datashit\Integral\x64\Debug\Integral.exe
+  Integral.vcxproj -> D:\CPP\Datashit\Integral\x64\Debug\Integral.pdb (Full PDB)

@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  Polyaci.cpp
+Polyaci.cpp(19): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  All 357 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Polyaci.vcxproj -> D:\CPP\Polyaci\Release\Polyaci.exe
+  Polyaci.vcxproj -> D:\CPP\Polyaci\Release\Polyaci.pdb (Full PDB)

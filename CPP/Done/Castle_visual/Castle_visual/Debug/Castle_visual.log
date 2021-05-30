@@ -1,0 +1,12 @@
+﻿  Castle_visual.cpp
+d:\cpp\datashit\castle_visual\castle_visual\castle_visual.cpp(135): warning C4838: преобразование из "double" в "int" требует сужающего преобразования
+d:\cpp\datashit\castle_visual\castle_visual\castle_visual.cpp(135): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+d:\cpp\datashit\castle_visual\castle_visual\castle_visual.cpp(154): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\cpp\datashit\castle_visual\castle_visual\castle_visual.cpp(388): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\cpp\datashit\castle_visual\castle_visual\castle_visual.cpp(390): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\cpp\datashit\castle_visual\castle_visual\castle_visual.cpp(392): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\cpp\datashit\castle_visual\castle_visual\castle_visual.cpp(397): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\cpp\datashit\castle_visual\castle_visual\castle_visual.cpp(399): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\cpp\datashit\castle_visual\castle_visual\castle_visual.cpp(401): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Castle_visual.vcxproj -> D:\CPP\Datashit\Castle_visual\Debug\Castle_visual.exe
+  Castle_visual.vcxproj -> D:\CPP\Datashit\Castle_visual\Debug\Castle_visual.pdb (Full PDB)

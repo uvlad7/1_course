@@ -1,0 +1,10 @@
+﻿  Haffman.cpp
+d:\cpp\datashit\haffman\haffman\haffman.cpp(94): warning C4018: <: несоответствие типов со знаком и без знака
+d:\cpp\datashit\haffman\haffman\haffman.cpp(99): warning C4018: <: несоответствие типов со знаком и без знака
+d:\cpp\datashit\haffman\haffman\haffman.cpp(142): warning C4018: <: несоответствие типов со знаком и без знака
+d:\cpp\datashit\haffman\haffman\haffman.cpp(147): warning C4018: <: несоответствие типов со знаком и без знака
+d:\cpp\datashit\haffman\haffman\haffman.cpp(153): warning C4244: =: преобразование "unsigned long" в "char", возможна потеря данных
+d:\cpp\datashit\haffman\haffman\haffman.cpp(168): warning C4018: <: несоответствие типов со знаком и без знака
+d:\cpp\datashit\haffman\haffman\haffman.cpp(71): warning C4715: cod: значение возвращается не при всех путях выполнения
+  Haffman.vcxproj -> D:\CPP\Datashit\Haffman\Debug\Haffman.exe
+  Haffman.vcxproj -> D:\CPP\Datashit\Haffman\Debug\Haffman.pdb (Full PDB)

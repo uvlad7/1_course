@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1520225387 source:c:\users\sergey\desktop\1&2sem\proga\raw\firstprogram\main.cpp
+	<tchar.h>
+	<windows.h>
+	<windows.h>
+	<string.h>
+	<fstream>
+	<cstdlib>
+	<ctime>
+
+1520521415 source:d:\cpp\datashit\firstprogram (winapi)\main.cpp
+	<tchar.h>
+	<windows.h>
+	<string.h>
+	<cstdlib>
+	<ctime>
+
+1520259173 d:\cpp\datashit\firstprogram (winapi)\res.rc
+
+1520282976 source:d:\cpp\datashit\firstprogram (winapi)\res.rc
+
+1520539190 source:d:\cpp\datashit\paint x\main.cpp
+	<tchar.h>
+	<windows.h>
+	<string.h>
+	<cstdlib>
+	<ctime>
+
+1520282976 source:d:\cpp\datashit\paint x\res.rc
+

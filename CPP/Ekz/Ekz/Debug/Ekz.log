@@ -1,0 +1,7 @@
+﻿  Source.cpp
+d:\1 курс\cpp\ekz\ekz\source.cpp(130): warning C4838: преобразование из "double" в "int" требует сужающего преобразования
+d:\1 курс\cpp\ekz\ekz\source.cpp(130): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+d:\1 курс\cpp\ekz\ekz\source.cpp(189): warning C4838: преобразование из "double" в "int" требует сужающего преобразования
+d:\1 курс\cpp\ekz\ekz\source.cpp(189): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Ekz.vcxproj -> D:\1 курс\CPP\Ekz\Debug\Ekz.exe
+  Ekz.vcxproj -> D:\1 курс\CPP\Ekz\Debug\Ekz.pdb (Full PDB)

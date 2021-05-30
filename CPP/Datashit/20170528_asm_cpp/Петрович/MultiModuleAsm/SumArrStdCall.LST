@@ -1,0 +1,61 @@
+Turbo Assembler	 Version 5.0	    05-15-12 19:46:20	    Page 1
+SumArrStdCall.asm
+
+
+
+      1					       .386
+      2	00000000			       .model flat
+      3	00000000			       .data
+      4	00000000			       .code
+      5						PUBLIC _SumArrStdCall
+      6	00000000			 _SumArrStdCall	PROC
+      7	00000000  55				push   ebp
+      8	00000001  8B EC				mov    ebp, esp
+      9
+     10	00000003  8B 5D	08			mov    ebx, [ebp+08h]
+     11	00000006  8B 4D	0C			mov    ecx, [ebp+0Ch]
+     12
+     13	00000009  33 C0				xor    eax, eax
+     14	0000000B			 c1:
+     15	0000000B  03 03				add    eax, [ebx]
+     16	0000000D  83 C3	04			add    ebx, 4
+     17	00000010  E2 F9				loop   c1
+     18
+     19	00000012  5D				pop    ebp
+     20	00000013  C3				ret
+     21	00000014			 _SumArrStdCall	 ENDP
+     22						end
+Turbo Assembler	 Version 5.0	    05-15-12 19:46:20	    Page 2
+Symbol Table
+
+
+
+
+Symbol Name			  Type	 Value
+
+??date				  Text	 "05-15-12"
+??filename			  Text	 "SumArrSt"
+??time				  Text	 "19:46:20"
+??version			  Number 0500
+@32Bit				  Text	 1
+@CodeSize			  Text	 0
+@Cpu				  Text	 0F0FH
+@DataSize			  Text	 0
+@FileName			  Text	 SumArrSt
+@Interface			  Text	 000h
+@Model				  Text	 1
+@WordSize			  Text	 4
+@code				  Text	 FLAT
+@curseg				  Text	 _TEXT
+@data				  Text	 FLAT
+@stack				  Text	 FLAT
+_SumArrStdCall			  Near32 FLAT:0000
+c1				  Near32 FLAT:000B
+
+Groups & Segments		  Bit Size Align  Combine Class
+
+DGROUP				  Group
+  _DATA				  32  0000 Dword  Public  DATA
+FLAT				  Group
+_TEXT				  32  0014 Dword  Public  CODE
+

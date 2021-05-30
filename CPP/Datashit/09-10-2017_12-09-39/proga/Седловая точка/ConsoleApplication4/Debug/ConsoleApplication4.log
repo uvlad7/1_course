@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (ConsoleApplication4.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Седловая точка.cpp
+  ConsoleApplication4.vcxproj -> C:\Users\User\source\repos\Седловая точка\Debug\Седловая точка.exe
+  ConsoleApplication4.vcxproj -> C:\Users\User\source\repos\Седловая точка\Debug\Седловая точка.pdb (Partial PDB)
